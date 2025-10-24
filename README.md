@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0mFhJ6d/data-entry-banner.png" alt="Data Entry Practice Banner" width="100%">
+  <img src="https://github.com/iamhirdeshkumar15/Data_Entry_Practice/blob/main/Data_Entry.png" alt="Data Entry Practice Banner" width="100%">
 </p>
 
 <h1 align="center">🧮 Data Entry Practice (Excel | Power BI | Automation)</h1>
