@@ -24,5 +24,3 @@ To summarize and visualize company sales using interactive Excel dashboards with
 | `Sales_Dashboard.xlsx` | Interactive Excel dashboard |
 
 ---
-
-✅ **Next Module (06):** *Data Entry Automation* — Using **Macros & VBA** to automate repetitive Excel tasks.
