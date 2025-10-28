@@ -21,6 +21,6 @@ Automate repetitive Excel data entry tasks using Macros and VBA to increase spee
 | File | Description |
 |------|--------------|
 | `Daily_Sales_Entry.xlsx` | Raw sales data |
-| `Daily_Sales_Automation.xlsm` | Automated workbook with Macros |
+| `Daily_Sales_Automation.xltm` | Automated workbook with Macros |
 
 ---
