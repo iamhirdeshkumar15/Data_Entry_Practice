@@ -23,8 +23,5 @@ Visualize company sales and profit data using Microsoft Power BI for interactive
 | `Company_Sales_Report.xlsx` | Raw Excel dataset |
 | `Company_Sales_Report.pbix` | Power BI project file |
 | `Company_Sales_Dashboard.pdf` | Exported dashboard |
-| `README.md` | Module documentation |
 
 ---
-
-✅ **Next Module (08):** *Final Project* — Build a complete company data entry & reporting system integrating Excel + Power BI.
